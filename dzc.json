@@ -2,7 +2,7 @@
   "name": "DZ Coin",
   "symbol": "DZC",
   "description": "Denis Zvegelj Token",
-  "image": "https://raw.githubusercontent.com/w3fans/crpto/main/dzc.png"
+  "image": "https://raw.githubusercontent.com/w3fans/crpto/main/dzc.png",
   "extensions": {
     "website": "https://idz.si",
     "twitter": "https://x.com/idz",
